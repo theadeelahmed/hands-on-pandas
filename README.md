@@ -27,7 +27,6 @@ This repo reflects my **learning journey** to master Pandas for real-world data 
 
 ## 🛠️ Tech Stack  
 - Python 3.x  
-- Pandas  
+- Pandas
+- numpy
 - Jupyter Notebook  
-   git clone https://github.com/your-username/hands-on-pandas.git
-
